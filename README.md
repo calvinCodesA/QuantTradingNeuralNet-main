@@ -7,7 +7,7 @@ Results:
 <img width="1196" alt="results" src="https://github.com/user-attachments/assets/4e2039ab-cd1d-4c94-a487-5f352e50e5f7">
 
 ## Overview
-This Python script implements a quantitative trading system using a neural network model specifically trained on E-mini S&P 500 futures (ES) data from the last couple of months. It performs backtesting on historical financial data, simulates trades, and provides performance metrics and visualizations tailored for ES futures trading.
+This Python script implements a quantitative trading system using a neural network model specifically trained on recent E-mini S&P 500 futures (ES) data. It performs backtesting on historical financial data, simulates trades, and provides performance metrics and visualizations tailored for ES futures trading.
 
 ## Key Components
 
