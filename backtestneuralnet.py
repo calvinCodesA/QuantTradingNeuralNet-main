@@ -197,7 +197,7 @@ def main():
     while True:
         try:
             days_ago = int(input("Enter the number of days ago to start the backtest (Must be positive and 50 at most): "))
-            assert 0 < days_ago <= 50, "Number of days must be positive and 50 at most"
+            assert 1 < days_ago <= 50, "Number of days must be greater than 1 and 50 at most"
             break
         except ValueError:
             print("Please enter a valid integer for the number of days.")
